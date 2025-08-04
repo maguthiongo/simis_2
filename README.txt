@@ -1,0 +1,1 @@
+SACCO PHP SYSTEM SETUP:\n1. Import sacco_db.sql to your phpMyAdmin\n2. Place files in htdocs/sacco_system\n3. Login with admin/admin123 or member1/member123 or staff1/staff123
